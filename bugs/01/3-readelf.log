@@ -1,0 +1,3 @@
+
+~ # readelf -s /usr/lib/libgobject-2.0.so.0 | grep g_type_check_class_cast
+   619: 0000000000024644   244 FUNC    GLOBAL DEFAULT    8 g_type_check_class_cast

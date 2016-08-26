@@ -1,0 +1,10 @@
+
+~ # ldd /usr/lib/libswt-atk-gtk-4530.so
+        ldd (0x55ac87ad2000)
+        libatk-1.0.so.0 => /usr/lib/libatk-1.0.so.0 (0x7f60364e0000)
+        libc.musl-x86_64.so.1 => ldd (0x55ac87ad2000)
+        libgobject-2.0.so.0 => /usr/lib/libgobject-2.0.so.0 (0x7f60362a0000)
+        libglib-2.0.so.0 => /usr/lib/libglib-2.0.so.0 (0x7f6035fb5000)
+        libintl.so.8 => /usr/lib/libintl.so.8 (0x7f6035da7000)
+        libffi.so.6 => /usr/lib/libffi.so.6 (0x7f6035b9f000)
+        libpcre.so.1 => /usr/lib/libpcre.so.1 (0x7f6035946000)
